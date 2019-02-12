@@ -66,20 +66,20 @@ B) [Deep Learning: Complete Guide to TensorFlow for Deep Learning with Python.](
 * [Bowler: A refactoring tool for manipulating Python at the syntax tree level. It enables safe, large scale code modifications while guaranteeing that the resulting code compiles and runs ★878](https://github.com/facebookincubator/bowler) <br>
 
 #### Debugging
-* [Py-spy: A sampling profiler for Python programs. It lets you visualize what your Python program is spending time on without restarting the program or modifying the code in any way. 3475](https://github.com/benfred/py-spy) <br>
-* [Birdseye: Quick, convenient, expression-centric, graphical Python debugger using the AST 1067](https://github.com/alexmojaki/birdseye) <br>
-* [Icecream: Sweet and Creamy Print Debugging 726](https://github.com/gruns/icecream) <br>
+* [Py-spy: A sampling profiler for Python programs. It lets you visualize what your Python program is spending time on without restarting the program or modifying the code in any way. ★3475](https://github.com/benfred/py-spy) <br>
+* [Birdseye: Quick, convenient, expression-centric, graphical Python debugger using the AST ★1067](https://github.com/alexmojaki/birdseye) <br>
+* [Icecream: Sweet and Creamy Print Debugging ★726](https://github.com/gruns/icecream) <br>
 
 #### Compiler
-* [Transcrypt: Python 3.7 to JavaScript compiler - Lean, fast, open! - 1557](https://github.com/qquick/Transcrypt) <br>
-* [Pyodide: The Python scientific stack, compiled to WebAssembly 1041](https://github.com/iodide-project/pyodide) <br>
+* [Transcrypt: Python 3.7 to JavaScript compiler - Lean, fast, open! - ★1557](https://github.com/qquick/Transcrypt) <br>
+* [Pyodide: The Python scientific stack, compiled to WebAssembly ★1041](https://github.com/iodide-project/pyodide) <br>
 
 #### Data Related
-* [Voluptuous: Voluptuous, despite the name, is a Python data validation library. 1367](https://github.com/alecthomas/voluptuous) <br>
-* [Botflow: Python Fast Data driven programming framework for Data pipeline work( Web Crawler,Machine Learning,Quantitative Trading.etc) 932](https://github.com/kkyon/botflow) <br>
-* [Fast-Pandas: Benchmark for different operations in pandas against various dataframe sizes. 797](https://github.com/mm-mansour/Fast-Pandas) <br>
+* [Voluptuous: Voluptuous, despite the name, is a Python data validation library. ★1367](https://github.com/alecthomas/voluptuous) <br>
+* [Botflow: Python Fast Data driven programming framework for Data pipeline work( Web Crawler,Machine Learning,Quantitative Trading.etc) ★932](https://github.com/kkyon/botflow) <br>
+* [Fast-Pandas: Benchmark for different operations in pandas against various dataframe sizes. ★797](https://github.com/mm-mansour/Fast-Pandas) <br>
 
 #### Chart
-* [A Tour in the Wonderland of Math with Python: A collection of python scripts for drawing beautiful figures and animating interesting algorithms in mathematics. 3171](https://github.com/neozhaoliang/pywonderland) <br>
-* [Chartify: Python library that makes it easy for data scientists to create charts. 1811](https://github.com/spotify/chartify) <br>
-* [Hypertools v0.5: A Python toolbox for gaining geometric insights into high-dimensional data 1351](https://github.com/ContextLab/hypertools) <br>
+* [A Tour in the Wonderland of Math with Python: A collection of python scripts for drawing beautiful figures and animating interesting algorithms in mathematics. ★3171](https://github.com/neozhaoliang/pywonderland) <br>
+* [Chartify: Python library that makes it easy for data scientists to create charts. ★1811](https://github.com/spotify/chartify) <br>
+* [Hypertools v0.5: A Python toolbox for gaining geometric insights into high-dimensional data ★1351](https://github.com/ContextLab/hypertools) <br>
